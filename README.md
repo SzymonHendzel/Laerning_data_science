@@ -1,2 +1,2 @@
 # Laerning_data_science
-# W tym repozytorium zawarty jest cały proces mojego uczenia się dziedziny data science
+# W tym repozytorium skupiam się na nowo poznanych aspektach poznanych w dziedzinie data science. 
